@@ -116,7 +116,6 @@ Default values used in the final project launch file.
 ## Documentation
 
 - Lab reports: [P1](final_reports/RobotsMovilesAutonomos_P1_G21.pdf), [P2](final_reports/RobotsMovilesAutonomos_P2_G21.pdf), [P3](final_reports/RobotsMovilesAutonomos_P3_G21.pdf), [P4](final_reports/RobotsMovilesAutonomos_P4_G21.pdf)
-- [Final project statement](Proyecto.pdf)
 - [Final presentation](final_reports/Proyecto-Final-Robots-Moviles-Autonomos.pptx)
 - [Suggested improvements](sim_ws/future_improvements.md)
 
@@ -129,5 +128,5 @@ The original work of the authors (particle filter, PRM planner, wall follower, P
 ## Authors
 
 - Liam Esgueva González
-- Jorge Carnicero Príncipe
 - Andrés Gil Vicente
+- Jorge Carnicero Príncipe
